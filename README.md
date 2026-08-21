@@ -153,14 +153,14 @@ Project Structure
 
 AI-Powered-Data-Analysis/
 │
-├── README.md
+├README.md
 │
-├── notebooks/
-│   └── data_analysis.ipynb
-│
-├── visualizations/
-│   └── charts/
-│
+|notebooks/
+ └── data_analysis.ipynb
+
+|visualizations/
+ └── charts/
+ 
 └── outputs/
     └── analysis_results/
 
