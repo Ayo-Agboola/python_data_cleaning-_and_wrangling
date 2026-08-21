@@ -152,19 +152,13 @@ Key learning outcomes included:
 Project Structure
 
 AI-Powered-Data-Analysis/
-│
-├README.md
-│
-|notebooks/
- └── data_analysis.ipynb
-
-|visualizations/
- └── charts/
- 
-└── outputs/
-    └── analysis_results/
-
-«The exact folder and file names may differ depending on how the project repository was organised.»
+→ README.md
+→ notebooks/
+    → data_analysis.ipynb
+→ visualizations/
+    → charts/
+→ outputs/
+    → analysis_results/
 
 How to Explore the Project
 
